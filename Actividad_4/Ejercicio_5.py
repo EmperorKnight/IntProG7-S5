@@ -15,3 +15,4 @@ elif numero > 0 and num_par != 0:
     print("El numero que introdujo es positivo y es un numero inpar")
 elif numero < 0 and num_par != 0:
     print("El numero que introdujo es negativo y es un numero inpar")
+    
