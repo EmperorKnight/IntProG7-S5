@@ -3,7 +3,7 @@
 # • Si es mayor que 0, mostrar "El número es positivo".
 # • Si es divisible por 2, mostrar “El número es par”
 
-numero = int(input(f"Introduzca un numero random \n-> "))
+numero = float(input(f"Introduzca un numero random \n-> "))
 
 num_par = numero % 2
 
