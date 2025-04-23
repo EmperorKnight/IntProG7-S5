@@ -22,6 +22,5 @@ elif primer_numero < segundo_numero:
         print("El segundo numero es el mayor entre los tres")
     else:
         print("El tercer numero es el mayor entre los tres")
-
-if primer_numero == segundo_numero == tercer_numero:
+elif primer_numero == segundo_numero == tercer_numero:
     print("Los tres numero son iguales")
