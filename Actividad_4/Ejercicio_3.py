@@ -2,7 +2,7 @@
 # • Ingresar velocidad.
 # • Si supera 120 km/h, mostrar “¡Reduzca la velocidad!”
 
-velocidad = input(f" \nIntroduzca su velocidad en (km/h)\n-> ")
+velocidad = input(f" \nIntroduzca su velocidad \n-> ")
 
 velocidad1, simbologia = velocidad.split(" ")
 
